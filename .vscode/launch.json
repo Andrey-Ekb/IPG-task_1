@@ -1,0 +1,12 @@
+{
+  "configurations": [
+    {
+      "type": "go",
+      "name": "debug main.go",
+      "request": "launch",
+      "mode": "auto",
+      "args": [],
+      "program": "c:\\Users\\andre\\Desktop\\gb\\Интеграция и Параллельное выполнение в GO\\практика\\task_1\\main.go"
+    }
+  ]
+}
